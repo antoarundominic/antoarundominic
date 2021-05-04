@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GraphQL
 - 💞️ I’m looking to collaborate on Anything related to coding
 - 📫 How to reach me: 
-  * [@antoarundominic](https://twitter.com/antoarundominic)
+  * ![twitter:](./twitter-icon.png)  [@antoarundominic](https://twitter.com/antoarundominic)
   * :email: antoarundominic@gmail.com
 
 <!---
